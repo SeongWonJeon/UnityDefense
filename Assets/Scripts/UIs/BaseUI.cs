@@ -8,7 +8,7 @@ public class BaseUI : MonoBehaviour
 {
     // 해당 게임오브젝트의 이름가지고 사용을 하자string
     protected Dictionary<string, RectTransform> transforms;
-    protected Dictionary<string, Button> buttons;
+    protected Dictionary<string, Button> buttons;               // 이 방식이 UI바인딩 작업이다
     protected Dictionary<string, TMP_Text> texts;
     // TODO : add ui component
 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c3871a00eab164db6c83378bade04e, type: 3}
+  m_Name: CanonTowerData
+  m_EditorClassIdentifier: 
+  towers:
+  - Tower: {fileID: -4028719781689831480, guid: 5bfeef775bb60f249baff95d0d20b21f, type: 3}
+    damage: 3
+    delay: 5
+    renge: 20
+    buildTime: 10
+    buildCost: 10
+    sellCost: 10
